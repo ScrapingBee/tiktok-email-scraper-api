@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="tiktok-email-scraper-api" />
+    <img src="https://github.com/user-attachments/assets/bc1e3bbc-3de3-4400-9400-5c1feeac23d0" alt="tiktok-email-scraper-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/tiktok-email-scraper-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/tiktok-email-scraper-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/tiktok-email-scraper-api.svg)](LICENSE)
